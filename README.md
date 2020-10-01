@@ -1,4 +1,4 @@
-# udemy-react-testing-projects
+# udemy-react-testing-projects - An amazing project
 Code for projects presented in Udemy "React Testing with Jest and Enzyme" course
 
 ## Project READMEs
